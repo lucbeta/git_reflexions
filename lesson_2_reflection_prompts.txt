@@ -21,3 +21,7 @@ One have the overview of the commits and the branches!
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 All the changes made on one branch will bin transfered to the other branch as a new commit. This new commit represents the merge of the two branches!
+
+What are the pros and cons of Git´s automatic merging vs. always doing merges manually?
+
+Automatic merges are fast and they give automatic conflict messages to resolve them. Manual merges are time consuming but they allow more control over the merge!
