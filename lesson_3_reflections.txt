@@ -1,1 +1,3 @@
 When would you want to creat a remote repository rather than keeping all your work local?
+
+To backup the work, be accessible from different location and have exposure to the public for the code.
