@@ -16,4 +16,8 @@ In case one want add a new feature or try someting else experimental, without th
 
 How do the diagrams help you visualize the branch structure?
 
-One have the overview of the commits and the branches?
+One have the overview of the commits and the branches!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the changes made on one branch will bin transfered to the other branch as a new commit. This new commit represents the merge of the two branches!
