@@ -5,3 +5,9 @@ To backup the work, be accessible from different location and have exposure to t
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because I can not be sure what kind of code is on remote. It seems better to check first and then pull the changes if desired manually.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks allow remote repos to copy and use whitout changing the original repo. It is a remote clone of a repo. 
+With clones one can copy a remote repo locally. 'A branch in Git is [...] a lightweight pointer to one of given commits[,]'
+which allows multiple lines of development.
