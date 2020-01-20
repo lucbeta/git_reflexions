@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks allow remote repos to copy and use whitout changing the original repo. It is a remote clone of a repo. 
 With clones one can copy a remote repo locally. 'A branch in Git is [...] a lightweight pointer to one of given commits[,]'
 which allows multiple lines of development.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+One can refere to this copy in case there is a conflict, while merging the local copy with the remote.
