@@ -15,3 +15,9 @@ which allows multiple lines of development.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 One can refere to this copy in case there is a conflict, while merging the local copy with the remote.
+
+How would you collaborate without using Git or Github? What would be easier, and waht would be harder?
+
+Need always at least to coders present in one location all the time for colaboration on code to work. 
+This is going to be hard to manage. Since two individuals are present at the same time it is easier
+to follow the change that are made to the code.
