@@ -21,3 +21,9 @@ How would you collaborate without using Git or Github? What would be easier, and
 Need always at least to coders present in one location all the time for colaboration on code to work. 
 This is going to be hard to manage. Since two individuals are present at the same time it is easier
 to follow the change that are made to the code.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+For experimantal purposes one would prefer a separate branch so master is always production ready and 
+without mistakes possibly made on the experiamtal branch.
